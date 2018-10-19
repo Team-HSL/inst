@@ -3,4 +3,3 @@ def sum10():
     for i in range(11):
         sum += i
     return sum
-print(sum10())
